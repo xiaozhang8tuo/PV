@@ -8,7 +8,6 @@
 
 - 编写可视化界面如下，
 
-![1587704741624](\images\1587704741624.png)
-
+![1587704741624](https://github.com/xiaozhang8tuo/PV/blob/master/images/1587704741624.png)
 
 
